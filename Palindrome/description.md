@@ -10,3 +10,4 @@ Once we’ve taken the last digit, we remove it from the number using integer di
 This process continues until the number becomes 0, meaning all digits have been processed and the reversed number is complete.
 
 Finally, we compare the reversed number with the original number we saved earlier. If they are the same, then the number is a palindrome. If not, then it isn’t.
+![1775087796616](image/description/1775087796616.jpg)
