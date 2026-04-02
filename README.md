@@ -29,21 +29,6 @@ A program that checks whether a given number is a palindrome by reversing the nu
 
 ---
 
-## 📂 Project Structure
-
-```
-COS102-Project/
-│── triangle.py
-│── palindrome.py
-│── pseudocode.pdf / .docx
-│── flowcharts/
-│     ├── triangle_flowchart.png
-│     └── palindrome_flowchart.png
-│── README.md
-```
-
----
-
 ## ▶️ How to Run the Programs
 
 1. Make sure Python is installed on your system.
