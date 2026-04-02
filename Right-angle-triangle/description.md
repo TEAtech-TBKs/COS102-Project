@@ -11,3 +11,5 @@ angleC = 180 - (angleA + angleB)
 After calculating the third angle, the program checks if any of the three angles is equal to 90 degrees. It does this using a conditional statement with the OR operator, meaning only one of the angles needs to be 90 for the condition to be true.
 
 If any of the angles is 90 degrees, the program prints that the triangle is a right-angled triangle. If none of the angles is 90 degrees, it prints that the triangle is not right-angled.
+
+![1775087978401](image/description/1775087978401.jpg)
