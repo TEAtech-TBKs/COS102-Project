@@ -29,7 +29,7 @@ A program that checks whether a given number is a palindrome by reversing the nu
 
 ---
 
-## ▶️ How to Run the Programs
+## ▶ How to Run the Programs
 
 1. Make sure Python is installed on your system.
 2. Open your terminal or command prompt.
@@ -62,6 +62,6 @@ python palindrome.py
 Miva Software-engineering Student
 ---
 
-## ✅ Notes
+## Notes
 
 This project is for academic purposes and demonstrates fundamental programming and problem-solving concepts.
